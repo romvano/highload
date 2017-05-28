@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Highload.iml" filepath="$PROJECT_DIR$/Highload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/highload.iml" filepath="$PROJECT_DIR$/.idea/modules/highload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpd.iml" filepath="$PROJECT_DIR$/.idea/modules/httpd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/httpd_main.iml" group="httpd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httpd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/httpd_test.iml" group="httpd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/realmGenerator.iml" filepath="$PROJECT_DIR$/.idea/modules/realmGenerator.iml" />
     </modules>
   </component>
 </project>
